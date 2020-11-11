@@ -1,0 +1,4 @@
+[core]
+    remote = accuro_fork
+['remote "accuro_fork"']
+    url = gdrive://117WdCZLLTRQE0jrbe3bfNG4GM2oaC3fS
